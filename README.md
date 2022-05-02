@@ -12,3 +12,19 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+### :woman_technologist: About Me :
+I am a  Developer / Telecommunication Eng <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Kubernetes , MATLAB and integration technologies.
+
+- :zap: Kinda obsessed with the Cosmos.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](
+https://mail.google.com/mail/u/?authuser=cindyaudrey3@gmail.com)
