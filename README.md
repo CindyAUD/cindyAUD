@@ -20,9 +20,8 @@
 ---
 ### :woman_technologist: About Me :
 I am a  Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Senior Software Engineer at Catawiki and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Senior Software Engineer at Google and contributing to Agentic AI, Play Services and backend applications.
 
-- :seedling: Exploring Kubernetes , MATLAB and integration technologies.
 
 - :zap: Kinda obsessed with the Cosmos.
 
